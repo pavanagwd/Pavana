@@ -1,0 +1,11 @@
+https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/switching-endpoints
+
+httpssimon-liang.openai.azure.com
+
+ 
+
+63b337e3355147eaacfbacc9eb74e704
+
+ 
+
+35-turbo-std-simonl
